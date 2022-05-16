@@ -2,7 +2,7 @@
 
 The goal of this project is to efficiently analyze data from a SQL database containing five related tables: <i>results, races, drivers, constructors,</i> and <i>circuits.</i>
 
-![ERdiag](er_diagram2.png)
+![ERdiag](er_diagram.png)
 
 I want to be able to run SQL queries against the database and quickly view the results in either tabular or visual formats--all within this python environment. The workflow will go like this:
 <ol>
